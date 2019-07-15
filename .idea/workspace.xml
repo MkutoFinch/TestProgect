@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="dcdcedb7-7ed3-4d4a-b3f7-5e3c7794b5b5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestProgect/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestProgect/MainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestProgect/MainClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestProgect/MainClassTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MainClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainClassTest.java" afterDir="false" />
     </list>
@@ -47,12 +49,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MainClassTest.testGetClassNumber">
+  <component name="RunManager" selected="JUnit.MainClassTest.testGetClassString">
     <configuration name="MainClassTest.testGetClassNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestProgect" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MainClassTest" />
       <option name="METHOD_NAME" value="testGetClassNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClassTest.testGetClassString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestProgect" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainClassTest" />
+      <option name="METHOD_NAME" value="testGetClassString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainClassTest.testGetClassString" />
         <item itemvalue="JUnit.MainClassTest.testGetClassNumber" />
         <item itemvalue="JUnit.MainClassTest.testGetLocalNumber" />
       </list>
@@ -86,6 +99,14 @@
       <option name="presentableId" value="Default" />
       <updated>1563216741866</updated>
     </task>
+    <task id="LOCAL-00001" summary="Second commit">
+      <created>1563221300197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563221300197</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,5 +119,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
   </component>
 </project>

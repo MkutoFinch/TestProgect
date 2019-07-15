@@ -23,4 +23,12 @@ public class MainClassTest extends MainClass{
         }
     }
 
+    @Test
+
+    public void testGetClassString(){
+        if (mainClass.getClassString().contains("Hello") || mainClass.getClassString().contains("hello")){
+        System.out.println("Успешно. Слово присутствует в строке.");
+    }else System.out.println("Тест провален. Слово отсутствует в строке.");
+
+}
 }
